@@ -15,7 +15,7 @@ int main() {
 	int n = scanf("");
 	int num[10];
 	while(){
-		cout << "Ingrese un numero"
+		
 	}
 	getch();
 	return 0;
