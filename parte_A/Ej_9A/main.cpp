@@ -8,17 +8,17 @@ int main(int argc, char** argv) {
 	
 	int vector[100], contador = 0;
 	
-	for(int i=0; i<100; i++){
+	for(int i=100; i >= 0; i--){
 		vector[i] = i;
 	}
 	
-	for(int i=1; i<100; i++){
+	for(int i=0; i<100; i++){
 		if(vector[i] <= vector[i-1]){
 			contador += 1;
 		}
 	}
 		
-	cout<<"¿El vector esta ordenado ascendentemente?"<<contador;	
+	cout<<"¿El vector esta ordenado ascendentemente?"<<contador<<endl;	
 
 	if(contador>0){
 		cout<<"\nNO";
