@@ -17,6 +17,6 @@ int main() {
 		printf("[%i]", arr[i]);
 	}
 	
-	
+	getch();
 	return 0;
 }
