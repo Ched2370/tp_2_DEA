@@ -1,6 +1,6 @@
 [Project]
-FileName=ejercicio_10A.dev
-Name=ejercicio_10A
+FileName=Ej_5B.dev
+Name=Ej_5B
 Type=1
 Ver=2
 ObjFiles=
@@ -27,8 +27,8 @@ CommandLine=
 Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=0
-CompilerSettings=0000000000000000000000000
+CompilerSet=3
+CompilerSettings=0000000100000000000000000
 UnitCount=1
 
 [VersionInfo]
